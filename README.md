@@ -1,6 +1,6 @@
 A fork of [linuxserver/sabnzbd](https://github.com/linuxserver/docker-sabnzbd) to include the mp4_automator package.
 
-__Update__ : 30 May 2017 : for Radarr support in mp4_automator. See [here](https://www.funkypenguin.co.nz/note/docker-container-for-sabnzbd-with-sickbeard-mp4-automater-released/) for details
+__Update__ : 02 Apr 19 : Rebase to ubuntu bionic.  for Radarr support in mp4_automator. See [here](https://www.funkypenguin.co.nz/note/docker-container-for-sabnzbd-with-sickbeard-mp4-automater-released/) for details
 
 ---
 
